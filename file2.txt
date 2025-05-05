@@ -1,3 +1,5 @@
 This is file2.txt 
 This line was added in our local git repo :D
-This line was added in GitHub
+This line was added in GitHub  >:I
+
+This line was just added by me :D
